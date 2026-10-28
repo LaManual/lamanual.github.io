@@ -45,8 +45,8 @@ button:disabled{opacity:.4;cursor:not-allowed}
 </head>
 <body>
 <main>
-<h1>Quick Answer</h1>
-<p class="sub">Everyone answers on their own device. When the timer ends, all answers are revealed.</p>
+<h1>Dont say the same as someone else</h1>
+<p class="sub">Thinkin outside the box might help. When the timer ends, all answers are revealed.</p>
 
 <section id="join">
   <div class="card">
