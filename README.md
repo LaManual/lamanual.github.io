@@ -1,5 +1,5 @@
-# lamanual.github.io[index.html](https://github.com/user-attachments/files/34091502/index.html)
-<!DOCTYPE html>
+
+
 <html lang="en">
 <head>
 <meta charset="utf-8">
